@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         
         // コミットとは保存のこと
         print("初めてのコミット")
+        
+        print("2回めのプッシュ")
     }
 
 
